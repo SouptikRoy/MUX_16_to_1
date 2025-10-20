@@ -57,6 +57,18 @@ end
 
 * Can be run in simulators like **Xilinx ISE**, **ModelSim**, or **eSim**.
 
+* ### 🔸 RTL Capture
+
+![Output Capture](Capture.PNG)
+
+### 🔸 RTL Capture
+
+![Output Capture](Capture.PNG)
+
+### 🔸 RTL Capture
+
+![Output Capture](Capture.PNG)
+
 ---
 
 ## 📊 Waveform Verification
