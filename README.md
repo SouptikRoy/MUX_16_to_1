@@ -67,7 +67,7 @@ end
 
 
 
-![Output Capture](MUX_2_Sch.PNG)
+![Output Capture](MUX_3_Sch.PNG)
 
 ---
 
