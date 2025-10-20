@@ -59,19 +59,20 @@ end
 
 * ### 🔸 RTL Capture
 
-![Output Capture](Capture.PNG)
+![Output Capture](MUS_Schematic.PNG)
 
-### 🔸 RTL Capture
+### 🔸 RTL Schematic 
 
-![Output Capture](Capture.PNG)
+![Output Capture](MUX_2_SCh.PNG)
 
-### 🔸 RTL Capture
 
-![Output Capture](Capture.PNG)
+
+![Output Capture](MUX_2_Sch.PNG)
 
 ---
 
 ## 📊 Waveform Verification
+![Simulation_Waveform](Waveform.PNG)
 
 1. Compile both `MUX_16_to_1_BB.v` and `MUX_16_to_1_tb.v`.
 2. Run simulation.
